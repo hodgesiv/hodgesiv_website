@@ -1,5 +1,5 @@
-url: "https://jaredwhite.com"
-timezone: America/Los_Angeles
+url: "https://hodgesiv.com"
+timezone: America/New_York
 
 development:
   bind: "ssl://0.0.0.0:4000"
