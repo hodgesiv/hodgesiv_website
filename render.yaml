@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: jaredwhite2021
+    name: hodgesiv
     env: static
     buildCommand: bin/bridgetown deploy
     staticPublishPath: ./output
